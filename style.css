@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+#navBar{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.heroSection{
+   
+    background-color:  #1f2937;
+}
+
+#headerLinks{
+    
+    margin-top: 25px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+#headerLogo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+#hlink{
+    margin-left: 10px;
+    margin-right: 10px;
+}
