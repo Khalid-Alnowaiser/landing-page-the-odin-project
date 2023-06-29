@@ -120,5 +120,12 @@ body{
     border: 2px solid #F9FAF8;
 color: #F9FAF8;
 border-radius: 5px;
+}.footer{
+    background-color:#1f2937 ;
+    padding: 20px;
+}#copyright{
+    color: white;
+    margin-bottom: 0px;
+    text-align: center;
 }
 
